@@ -1,9 +1,5 @@
 # Angular automation [PROTR]
 
-Playwrite deberia de unir obligatoriamente esto porque nacio en [A2] 
-
-sugerencia de Juan Tous a Microsoft
-
 
 * suggestion from Juan Tous to Microsoft
 
