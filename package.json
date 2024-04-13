@@ -1,0 +1,23 @@
+{
+  "name": "cucumberprotractornode",
+  "version": "1.0.0",
+  "description": "protractor framework [old world]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "[juancho camus] <======> [unrecognized google's latam  son]",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cucumber": "^7.0.0",
+    "@types/node": "^20.12.7",
+    "cucumber": "^6.0.7",
+    "cucumber-html-reporter": "^7.1.1",
+    "eslint": "^9.0.0",
+    "eslint-plugin-protractor": "^2.1.1",
+    "protractor": "^7.0.0",
+    "protractor-cucumber-framework": "^9.12.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
